@@ -44,7 +44,7 @@
 <h2 align="center">💻 My Technologies</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,python,cs" alt="My Technologies" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,python,cs,symfony,tailwind,sass" alt="My Technologies" />
   </a>
 </p>
 
@@ -52,7 +52,7 @@
 <h2 align="center">🛠️ Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,vscode,visualstudio,figma" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=github,gitlab,vscode,visualstudio,figma" alt="Tools" />
   </a>
 </p>
 
@@ -60,7 +60,7 @@
 <h2 align="center">🚀 Technologies in Progress</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=symfony,tailwind,sass" alt="Technologies in Progress" />
+    <img src="https://skillicons.dev/icons?i=react,vue" alt="Technologies in Progress" />
   </a>
 </p>
 
